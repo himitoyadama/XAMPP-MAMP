@@ -10,3 +10,6 @@ https://www.javadrive.jp/xampp/mysql/index3.html
 
 rootアカウントのパスワードを設定する 
 https://www.javadrive.jp/xampp/mysql/index2.html
+
+phpmyadminでデータベース名の変更
+https://blog.masuyoshi.com/phpmyadmin_database_name_edit/
