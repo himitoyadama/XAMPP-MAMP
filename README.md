@@ -1,4 +1,7 @@
 # XAMPP/MAMP
+Apacheの公開用コンテンツを配置する
+https://www.javadrive.jp/xampp/apache/index3.html
+
 WindowsにWebサーバ構築（XAMPP編）
 https://codeaid.jp/blog/xampp/
 
