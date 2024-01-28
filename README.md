@@ -1,4 +1,7 @@
 # XAMPP/MAMP
+Apacheで複数のWebサイトを公開する方法【PHPによるWebアプリケーション開発講座・番外編】【Apacheとは#3/Webサーバー・VirtualHost】
+https://m.youtube.com/watch?v=Vsr32M7M1eo
+
 Apacheの公開用コンテンツを配置する
 https://www.javadrive.jp/xampp/apache/index3.html
 
