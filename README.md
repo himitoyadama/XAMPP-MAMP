@@ -1,4 +1,7 @@
 # XAMPP/MAMP
+PHP・Java・JSP・サーブレット入門　第2回 Windows & XAMPPによる開発環境の準備(2016)
+https://m.youtube.com/watch?v=DOiyUpBE2Iw
+
 Apacheの起動と停止(サービスとコンソールアプリケーション)
 https://www.javadrive.jp/apache/install/index3.html#:~:text=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%81%8B%E3%82%89%20httpd%20%2Dk%20start%20%E3%81%A8%E5%AE%9F%E8%A1%8C%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82
 
